@@ -1,0 +1,37 @@
+header{
+    height: 100px;
+    min-width: 1200px;
+}
+
+.container{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 80%;
+    margin: auto;
+
+    .logo{
+        img{
+            height: 60px;
+        }
+    }
+
+    .list{
+        ul{
+            list-style: none;
+            li{
+                display: inline;
+                margin-left: 15px;
+                a{
+                    text-decoration: none;
+                    text-transform: uppercase;
+                    font-size: 13px;
+                    color: #464646;
+                }
+            }
+        }
+    }
+
+}

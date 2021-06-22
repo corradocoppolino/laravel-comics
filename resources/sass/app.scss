@@ -1,0 +1,15 @@
+//
+@import 'partials/vars';
+@import 'partials/mixin';
+@import 'partials/general';
+@import 'partials/utilities';
+@import 'partials/header';
+@import 'partials/footer';
+@import 'partials/comics';
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }

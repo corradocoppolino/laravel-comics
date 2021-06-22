@@ -1,0 +1,45 @@
+main.comics{
+    width: 100%;
+    height: 500px;
+    background-color: #1C1C1C;
+    min-width: 1200px;
+    .container{
+        width: 80%;
+        height: 500px;
+        margin: auto;
+    }
+    .container-photo{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .box{
+        width: calc(100%/6);
+        margin-top: 40px;
+    }
+    .box-img{
+        max-height: 150px;
+        overflow: hidden;
+    }
+    img{
+        width: 150px;
+        background-color: bisque;
+    }
+    h3{
+        margin-top: 10px;
+        color: white;
+        text-transform: uppercase;
+        font-size: 10px;
+        width: 150px;
+        word-break: break-all;
+    }
+    button{
+        background-color: #1882F9;
+        border: none;
+        color: white;
+        padding: 10px 50px;
+        font-size: 10px;
+        margin-top: 25px;
+        cursor: pointer;
+    }
+}
