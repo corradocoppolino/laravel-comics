@@ -76,11 +76,11 @@
 
         <div class="icons">
             <h4>FOLLOW US</h4>
-            <img src="../assets/footer-facebook.png" alt="">
-            <img src="../assets/footer-twitter.png" alt="">
-            <img src="../assets/footer-youtube.png" alt="">
-            <img src="../assets/footer-pinterest.png" alt="">
-            <img src="../assets/footer-periscope.png" alt="">
+            <img src="../img/footer-facebook.png" alt="">
+            <img src="../img/footer-twitter.png" alt="">
+            <img src="../img/footer-youtube.png" alt="">
+            <img src="../img/footer-pinterest.png" alt="">
+            <img src="../img/footer-periscope.png" alt="">
         </div>
 
     </div>
